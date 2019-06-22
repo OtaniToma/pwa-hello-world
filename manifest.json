@@ -1,0 +1,22 @@
+{
+  "name": "Hello World!",
+  "short_name": "Hello PWA World",
+  "icons": [
+    {
+      "src": "/pwa-hello-world/assets/gpui/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/pwa-hello-world/assets/gpui/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "scope": "/pwa-hello-world/",
+  "start_url": "/pwa-hello-world/",
+  "display": "standalone",
+  "theme_color": "#003366",
+  "background_color": "#ffffff",
+  "gcm_sender_id": "636485985927"
+}
